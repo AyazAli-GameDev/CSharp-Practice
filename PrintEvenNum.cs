@@ -2,7 +2,7 @@ class PrintEvenNum
 {
     public static void Main(String[] args)
     {
-        Console.WriteLine("Printing odd number .... !!!");
+        Console.WriteLine("Printing even number .... !!!");
 
         Console.Write("Enter range for printing even number : ");
 
